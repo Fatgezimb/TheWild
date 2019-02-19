@@ -29,14 +29,14 @@ h1 {
 }
 
 img {
-  width: 20%;
-  height: 5%;
+  width: 400px;
+  height: 300px;
   margin: 10px;
   transition: all 1s;
 }
 
 img:hover {
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 .center {
   text-align: center;
